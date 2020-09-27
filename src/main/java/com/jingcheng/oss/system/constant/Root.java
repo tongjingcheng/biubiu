@@ -1,8 +1,10 @@
 package com.jingcheng.oss.system.constant;
 
 /**
- * created by CaiBaoHong at 2018/5/16 11:08<br>
- *     管理员的特殊值
+ * 管理员的特殊值
+ * @author tongjingcheng
+ * @version 1.0
+ * @date 2020/9/27 12:09
  */
 public interface Root {
 

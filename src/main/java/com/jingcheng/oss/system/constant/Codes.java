@@ -1,8 +1,10 @@
 package com.jingcheng.oss.system.constant;
 
 /**
- * created by CaiBaoHong at 2018/4/18 11:07<br>
- *     响应的code
+ * 响应的code
+ * @author tongjingcheng
+ * @version 1.0
+ * @date 2020/9/27 12:09
  */
 public interface Codes {
 
