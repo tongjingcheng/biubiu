@@ -1,6 +1,5 @@
 # biubiu
-从biu 上克隆下来学习的，gradle 换成maven用来学习
-biu
+来源https://github.com/CaiBaoHong/biu， gradle 换成maven用来学习
 Biu，boot和vue的连读而想到的名字。一个基于Spring Boot和Vue的Web开发脚手架，整合和最基础的RBAC权限控制，包括：菜单权限、按钮权限、接口权限。
 
 前端使用vue-cli，后端使用Spring Boot，两个全家桶强强联合。
